@@ -13,6 +13,7 @@ This project is a Multiple Linear Regression project which involves analyzing st
 - [Fine Tuning and Evaluation](#fine-tuning-and-evaluation)
 - [Results](#results)
 - [Conclusion](#conclusion)
+- [Contribution](#contribution)
 
 ## Introduction
 
@@ -41,7 +42,7 @@ Hyperparameter tuning is performed using GridSearchCV for Ridge and Lasso regres
 ## **Results**
 The results of the regression models are displayed, including intercepts, coefficients, and evaluation metrics. Visualizations such as scatter plots, residual plots, and coefficient plots are generated to analyze model performance.
 
-## **Conclusion*8
+## **Conclusion**
 The project provides insights into the factors influencing student performance and demonstrates the effectiveness of regression models in predicting academic outcomes.
 
 ## **Contributing**
